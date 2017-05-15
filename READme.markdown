@@ -5,5 +5,5 @@
 #what is wanna cry?
 ###Wanna cry is a ransom which encrypt your files and request money to decrypt it
 ###it can be defeated by disabling smb protocol using this script
-##-----------------------
+#-----------------------
 #Designed by Electrovirus
